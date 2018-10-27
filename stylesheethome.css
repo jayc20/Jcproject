@@ -1,0 +1,153 @@
+body{
+	
+	background-color: #EAEAEA;
+	font-family: Arial Black;
+}
+.container-fluid{
+	background-color:white;
+}
+.container{
+	background-color:white;
+}
+.row{
+	margin: 2px;
+}
+.column-height{
+	height: 75px;
+}
+.column-height-2{
+	height: 775px;
+}
+.column-spac{
+	margin-bottom: 15px;
+}
+.color{
+	color: white;
+}
+.title{
+	background-color:#414141;
+}
+.col-md-6{
+	padding-left:2px;
+}
+.column-body{
+		height: 350px;
+}
+.size{
+	width: 300px;
+	height: 600px;
+}
+.img-bac{
+	background-color:;
+}
+.footer{
+	font-family:arial;
+	height: 125px;
+	background-color: #FF2C1B;
+	color: white;
+}
+.trailer-size{
+	height: 400px;
+	background-color:#FF2C1B;
+}
+.txt-center{
+	text-align: center;
+}
+.home-top{
+	height:700px;
+}
+.ads{
+	background-color: #A7A7A7;
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.length{
+	width: 99%;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:0px;
+}
+.length:hover{
+	width:100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+}
+.blue{
+	background-color:blue;
+}
+.yellow{
+	background-color:yellow;
+}
+.height-3{
+	height: 175px;
+}
+.text-back{
+	background-color: #EAEAEA;
+}
+.img-size{
+	width:115px;
+	height: 125px;
+}
+.border-style{
+	border-bottom-width: 2px;
+	border-bottom-color:#EAEAEA;
+	border-bottom-style:solid;
+	padding-left: 1.5px;
+	padding-top: 1.5px;
+}
+.title-back{
+	background-color:#DE341C;
+}
+.video
+{
+	width: 700px;
+	height: 335px;
+}
+.padding-t{
+	margin-left: 0px;
+}
+.trailer-round-1{
+	border-radius: 5px;
+}
+.upcoming-img{
+	width: 195px;
+	height: 225px;
+}
+.upcoming-img:hover{
+	width: 195.5px;
+	height: 226px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+}
+.red-accent{
+	color: #DE341C;
+}
+.grey-accent{
+	color: #848484;
+}
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+	text-decoration: none;
+}
+.footer-color{
+	background-color:#DE341C;
+}
+.footer-color-2{
+	background-color:#CD311B;
+}
+.review-height{
+	height: 400px;
+}
+.review-height-1{
+	height: 250px;
+}
+.box-conversion{
+	display: block;
+	
+}
