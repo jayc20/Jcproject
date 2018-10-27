@@ -1,0 +1,45 @@
+.row {
+	background-color: lavender
+}
+.col1{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: silver;
+}
+.col2{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: red;
+}
+.col3{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: orange;
+}
+.col4{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: blue;
+}
+.col5{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: darkgreen;
+}
+.col6{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: yellow;
+}
+.col7{
+	margin: 3px;
+	min-height: 300px;
+	text-align: center;
+	background-color: olive;
+}
