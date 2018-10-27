@@ -1,5 +1,5 @@
 .body{
-	 background: linear-gradient(to right, #33ccff -1%, #3366ff 100%);
+	 background-color: linear-gradient(to right, #33ccff -1%, #3366ff 100%);
 }
 .navback{
 	 background-color:green;
